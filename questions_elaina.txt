@@ -1,0 +1,17 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+1. See what directory you’re in - pwd
+2. Get into a new directory - cd “new/path”
+3. See the contents of the directory you’re in - ls
+My computer terminal is in bash.
+
+2. Do you have pets? What kind?
+No, sadly my dog died a few years ago :(
+
+3. If you run across an error, what would your first course of action be?
+Review the steps I took and the line of code to make sure there's no typos. 
+
+4. Funniest thing that happened to you in high school.
+A lot. One though is probably when I dressed up as a death eater and ran around campus for our homecoming reveal.
+
+5. What is a python script? (Keep it simple)
+A python file with .py at the end. 
